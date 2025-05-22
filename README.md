@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Tienda Online</title>
+  <title>Aylen Tiendita</title>
   <link rel="stylesheet" href="estilos.css" />
 </head>
 <body>
   <header>
-    <div class="logo">Tienda Online</div>
+    <div class="logo">Aylen tiendita</div>
     <nav>
       <ul>
         <li><a href="#inicio">Inicio</a></li>
@@ -36,22 +36,22 @@
       <div class="producto">
         <img src="https://via.placeholder.com/150" alt="Producto 1">
         <h3>Producto 1</h3>
-        <p>$10.00</p>
+        <p>$18.000</p>
       </div>
       <div class="producto">
         <img src="https://via.placeholder.com/150" alt="Producto 2">
         <h3>Producto 2</h3>
-        <p>$12.00</p>
+        <p>$12.000</p>
       </div>
       <div class="producto">
         <img src="https://via.placeholder.com/150" alt="Producto 3">
         <h3>Producto 3</h3>
-        <p>$15.00</p>
+        <p>$15.000</p>
       </div>
       <div class="producto">
         <img src="https://via.placeholder.com/150" alt="Producto 4">
         <h3>Producto 4</h3>
-        <p>$18.00</p>
+        <p>$18.000</p>
       </div>
     </div>
   </section>
